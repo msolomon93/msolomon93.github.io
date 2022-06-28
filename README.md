@@ -43,3 +43,14 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msolomon93)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<h1>How to Access</h1>
+
+- Download all files in repo
+
+- Open File Explorer
+
+- Open index.html in your browser
+
