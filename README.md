@@ -5,3 +5,6 @@
 <h1>Hi There!</h1>
 
 <h2>Welcome to my portfolio!</h2>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>  
+</div>
