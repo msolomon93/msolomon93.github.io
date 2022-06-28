@@ -13,6 +13,7 @@
 <h1>Hi There!</h1>
 
 <h2>Welcome to my portfolio!</h2>
+My name is Matthew Solomon and I am currently working towards a new career in web development
 
 ---
 
